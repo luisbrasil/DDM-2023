@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+import '../rotas.dart';
+import 'lista.dart';
+
+class Cadastro extends StatelessWidget{
+  
+  @override
+  Widget build(BuildContext context){
+    return Scaffold(
+      appBar: AppBar(title: const Text("Cadastro")),
+      body: ElevatedButton(
+        child: const Text ('Lista'),
+        onPressed: (){
+          Navigator.pushNamed(context, Rotas.lista);
+        },
+      ),
+    );
+  }
+}
