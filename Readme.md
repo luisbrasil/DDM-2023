@@ -1,9 +1,8 @@
-https://dontpad.com/ifprddm
-
 1)Implemente a navegação de pelo menos 10 widgets do SEU projeto. 
  - Lembre-se que o projeto deve ser único, relevante e coerente - deve estar validada pelo professor!
  - De prioridade na lógica de navegação e no sentido dos widgets - por enquanto não precisa "desenhar" completamente;
  - Se der tempo, vai tentando implementar e caso não consiga, faça a prototipação por meio de outro recurso (pode ser no caderno).
+ R: Professor ainda não decidi o tema, estou pensando em fazer um aplicativo de agenda de estúdios de tatuagem/piercing, onde os usuários abrir chats com os estúdios, analisar tatuagens já feitas, escrever reviews, etc.
 
 2)Em flutter, o que é rotas (Route)? Para que serve?
 R: Tem a função de permitir a navegação pelos diversos widgets do seu projeto.
